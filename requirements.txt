@@ -1,2 +1,7 @@
 matplotlib
 pandas
+lightfm 
+scikit-learn
+mlflow
+pandas
+numpy
